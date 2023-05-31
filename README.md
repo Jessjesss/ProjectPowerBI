@@ -24,4 +24,4 @@
 
 ![img](https://github.com/Jessjesss/ProjectPowerBI/blob/master/img/dashboard1.png)
 
-![img](https://github.com/Jessjesss/ProjectPowerBI/blob/master/img/dashboard2.png)
+![img](https://github.com/Jessjesss/ProjectPowerBI/blob/master/img/dashboard1.2.png)
